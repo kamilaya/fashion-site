@@ -1,0 +1,37 @@
+div.prev{
+    background-size: cover;
+    background-image: url(img/zara1.png);
+}
+div.amansio{
+    background-size: cover;
+    background-image: url(img/aman.jpg);
+}
+div.concept{
+    background-size: cover;
+    background-image: url(img/zaraff.jpg);
+}
+div.butique{
+    background-size: cover;
+    background-image: url(img/zarra.jpg);
+}
+
+
+
+
+
+div.prevtext{
+    overflow-y: scroll;
+    overflow-x: hidden; 
+}
+div.aman{
+    overflow-y: scroll;
+    overflow-x: hidden; 
+}
+div.next{
+    overflow-y: scroll;
+    overflow-x: hidden; 
+}
+div.xx{
+    overflow-y: scroll;
+    overflow-x: hidden; 
+}
